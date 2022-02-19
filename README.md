@@ -1,6 +1,3 @@
-<img src = "images/bug.png" width="700" height="500">
-
-
 # Can we guess the accurate price!?
 Fellow pythons! Welcome to the first - and most likely last - wager activity of our bootcamp!
 
@@ -13,15 +10,11 @@ Our goal is to enjoy, please do not take this readme seriously and keep reading 
 
 ## Why to participate?
 
-<img src = "images/why.png" width="200" height="100">
-
-
 1) Parts of the earnings will be donated to create the "pandas-alatake" fund, so we can finally buy the stuff we need to prank UX and Web!!!
 
 2) Because the other part of the earnings will be distributed among the winners!
 
 ## How to participate?
-<img src = "images/how.jpg" width="200" height="100">
 
 1) Our class is divided between 5 groups, with 5 seeds: Diego, Eva, Marc, Rodrigo, Victor and the rest of us.
 
@@ -41,7 +34,6 @@ Our goal is to enjoy, please do not take this readme seriously and keep reading 
 
 
 ### What will you win?
-<img src = "images/what.jpg" width="200" height="100">
 
 ```
 def my_wins(total_prize,winning_group_holders):
